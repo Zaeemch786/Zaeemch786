@@ -2,6 +2,7 @@
  <h1 align="center">Hi 👋, I'm Chaudhary Zaeem</h1>
 
 - 🔭 I’m currently working on Flutter
+- 👀 I’m interested in improving my self and learn new things 
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: zaeemali7854@gmail.com
