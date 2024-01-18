@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: zaeemali7854@gmail.com
-- ⚡ Fun fact: I'm comming to teen
+- ⚡
   
 ### Connect with me:
 <div id="badges">
